@@ -6,4 +6,6 @@
 
 ## Summary of passed discussions
 
-### December, the 13th : [summary](2018-12-13-summary-satim.md)
+### December, the 13th : [Plotting geographical data](2018-12-13-plotting-geographical-data.md)
+
+### December, the 20th : [GIT/Github](2018-12-20-git-github.md)
