@@ -10,6 +10,7 @@ Next week's topic:
   - best practices on reading papers
   - best practices on making a presentation
   - how to create a Python-FORTRAN interface 
+  - ... your idea ... 
 
 Past topics:  
   - Map and other graphic creation (Stephanie)
