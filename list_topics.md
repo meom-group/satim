@@ -10,6 +10,7 @@ Next week's topic:
   - best practices on reading papers
   - best practices on making a presentation
   - how to create a Python-FORTRAN interface 
+  - sharing experience/knowledge on the use of dask (python) on: MEOM Jupyter server, CAL1/ipython, Google cloud, HPC centers? 
   - ... your idea ... 
 
 Past topics:  
