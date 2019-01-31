@@ -9,3 +9,5 @@
 ### December, the 13th : [Plotting geographical data](2018-12-13-plotting-geographical-data.md)
 
 ### December, the 20th : [GIT/Github](2018-12-20-git-github.md)
+
+### January, the 17th : [Sharing software](2019-01-17-sharing-software.md)
