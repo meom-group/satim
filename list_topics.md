@@ -2,6 +2,16 @@
 
 Here you can add topics or issues that could be adressed with a SATIM discussion.
 
+ - Next month's topic will probably be how to compute on gricad
+ - support for dask
+ - sharing the workflow
+
+
+
+---
+
+## 3-years ago topics (pretty much still relevant ...)
+
 Next week's topic:
   - best practices on writing a paper (Emmanuel ?)
   
